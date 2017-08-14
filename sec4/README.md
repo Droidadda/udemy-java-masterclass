@@ -1,4 +1,4 @@
-# udemy-ja
+# Section 4 - Variables, Datatypes and Operators
 
 --
 
