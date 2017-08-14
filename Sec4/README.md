@@ -1,1 +1,5 @@
-# udemy-java-masterclass
+# udemy-ja
+
+--
+
+Rambod Rahmani <<rambodrahmani@autistici.org>>

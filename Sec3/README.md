@@ -1,1 +1,5 @@
-# udemy-java-masterclass
+# Section 3 - First Steps
+
+--
+
+Rambod Rahmani <<rambodrahmani@autistici.org>>
